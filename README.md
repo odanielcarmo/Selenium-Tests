@@ -1,5 +1,4 @@
 # Selenium-Tests
-Projeto de Automação de Testes Web
 
 Projeto de automação de testes web utilizando **Selenium WebDriver** com **Java** e **Maven**, desenvolvido para validar funcionalidades de login em uma página HTML local.
 
